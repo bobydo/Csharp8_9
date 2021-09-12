@@ -10,6 +10,8 @@
 -  Publish as a single file 
 ![image](https://user-images.githubusercontent.com/64368109/132989092-7fe9254a-9e63-49ec-b13c-deee1d7c7f9c.png)
 
+-  Multi-thread test
+![image](https://user-images.githubusercontent.com/64368109/132989307-8b8772e3-3916-4261-bc4d-31ef3178503a.png)
 
 -  Record to reduce assign =
 ![image](https://user-images.githubusercontent.com/64368109/132987144-027d1c63-5775-4fbb-ab78-35ba9cdcd261.png)
