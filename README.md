@@ -7,8 +7,8 @@
 -  C# 8 pattern matching
 ![image](https://user-images.githubusercontent.com/64368109/132988289-7c5ecb16-4d50-4e37-be17-02d1a41706a5.png)
 
--  Publish as a single file
-![image](https://user-images.githubusercontent.com/64368109/132988949-56056b33-b9d1-480e-991c-2cfe455530d2.png)
+-  Publish as a single file <br />
+![image](https://user-images.githubusercontent.com/64368109/132989014-d19bc071-c1cd-49d4-ab83-b182f62091ca.png)
 
 
 -  Record to reduce assign =
