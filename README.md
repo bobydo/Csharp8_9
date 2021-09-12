@@ -9,7 +9,7 @@
 
 -  Publish as a single file 
 <br>
-![image](https://user-images.githubusercontent.com/64368109/132989014-d19bc071-c1cd-49d4-ab83-b182f62091ca.png)
+![image](https://user-images.githubusercontent.com/64368109/132989092-7fe9254a-9e63-49ec-b13c-deee1d7c7f9c.png)
 
 
 -  Record to reduce assign =
